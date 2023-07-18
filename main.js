@@ -5,7 +5,7 @@ export const main = () => {
   return (
     <div>
       <main />
-      <confilct />
+      
     </div>
   )
 }
