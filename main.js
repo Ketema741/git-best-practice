@@ -5,6 +5,7 @@ export const main = () => {
   return (
     <div>
       <main />
+      <Dude />
       
     </div>
   )
